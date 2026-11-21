@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#E5EDE7"/>
+  <rect y="430" width="800" height="170" fill="#2E4A34"/>
+  <!-- Board-on-board overlapping cedar -->
+  <rect x="30" y="230" width="740" height="16" fill="#5A3E1B"/>
+  <rect x="30" y="380" width="740" height="16" fill="#5A3E1B"/>
+  <!-- Back layer -->
+  <rect x="40" y="170" width="38" height="270" fill="#785324" stroke="#483114" stroke-width="1.5" rx="2"/>
+  <!-- Overlap front layer -->
+  <rect x="64" y="170" width="38" height="270" fill="#996D33" stroke="#483114" stroke-width="1.5" rx="2"/>
+  <!-- Back layer -->
+  <rect x="90" y="170" width="38" height="270" fill="#785324" stroke="#483114" stroke-width="1.5" rx="2"/>
+  <!-- Overlap front layer -->
+  <rect x="114" y="170" width="38" height="270" fill="#996D33" stroke="#483114" stroke-width="1.5" rx="2"/>
+  <!-- Back layer -->
+  <rect x="140" y="170" width="38" height="270" fill="#785324" stroke="#483114" stroke-width="1.5" rx="2"/>
+  <!-- Overlap front layer -->
+  <rect x="164" y="170" width="38" height="270" fill="#996D33" stroke="#483114" stroke-width="1.5" rx="2"/>
+  <!-- Back layer -->
+  <rect x="190" y="170" width="38" height="270" fill="#785324" stroke="#483114" stroke-width="1.5" rx="2"/>
+  <!-- Overlap front layer -->
+  <rect x="214" y="170" width="38" height="270" fill="#996D33" stroke="#483114" stroke-width="1.5" rx="2"/>
+  <!-- Back layer -->
+  <rect x="240" y="170" width="38" height="270" fill="#785324" stroke="#483114" stroke-width="1.5" rx="2"/>
+  <!-- Overlap front layer -->
+  <rect x="264" y="170" width="38" height="270" fill="#996D33" stroke="#483114" stroke-width="1.5" rx="2"/>
+  <!-- Back layer -->
+  <rect x="290" y="170" width="38" height="270" fill="#785324" stroke="#483114" stroke-width="1.5" rx="2"/>
+  <!-- Overlap front layer -->
+  <rect x="314" y="170" width="38" height="270" fill="#996D33" stroke="#483114" stroke-width="1.5" rx="2"/>
+  <!-- Back layer -->
+  <rect x="340" y="170" width="38" height="270" fill="#785324" stroke="#483114" stroke-width="1.5" rx="2"/>
+  <!-- Overlap front layer -->
+  <rect x="364" y="170" width="38" height="270" fill="#996D33" stroke="#483114" stroke-width="1.5" rx="2"/>
+  <!-- Back layer -->
+  <rect x="390" y="170" width="38" height="270" fill="#785324" stroke="#483114" stroke-width="1.5" rx="2"/>
+  <!-- Overlap front layer -->
+  <rect x="414" y="170" width="38" height="270" fill="#996D33" stroke="#483114" stroke-width="1.5" rx="2"/>
+  <!-- Back layer -->
+  <rect x="440" y="170" width="38" height="270" fill="#785324" stroke="#483114" stroke-width="1.5" rx="2"/>
+  <!-- Overlap front layer -->
+  <rect x="464" y="170" width="38" height="270" fill="#996D33" stroke="#483114" stroke-width="1.5" rx="2"/>
+  <!-- Back layer -->
+  <rect x="490" y="170" width="38" height="270" fill="#785324" stroke="#483114" stroke-width="1.5" rx="2"/>
+  <!-- Overlap front layer -->
+  <rect x="514" y="170" width="38" height="270" fill="#996D33" stroke="#483114" stroke-width="1.5" rx="2"/>
+  <!-- Back layer -->
+  <rect x="540" y="170" width="38" height="270" fill="#785324" stroke="#483114" stroke-width="1.5" rx="2"/>
+  <!-- Overlap front layer -->
+  <rect x="564" y="170" width="38" height="270" fill="#996D33" stroke="#483114" stroke-width="1.5" rx="2"/>
+  <!-- Back layer -->
+  <rect x="590" y="170" width="38" height="270" fill="#785324" stroke="#483114" stroke-width="1.5" rx="2"/>
+  <!-- Overlap front layer -->
+  <rect x="614" y="170" width="38" height="270" fill="#996D33" stroke="#483114" stroke-width="1.5" rx="2"/>
+  <!-- Back layer -->
+  <rect x="640" y="170" width="38" height="270" fill="#785324" stroke="#483114" stroke-width="1.5" rx="2"/>
+  <!-- Overlap front layer -->
+  <rect x="664" y="170" width="38" height="270" fill="#996D33" stroke="#483114" stroke-width="1.5" rx="2"/>
+  <!-- Back layer -->
+  <rect x="690" y="170" width="38" height="270" fill="#785324" stroke="#483114" stroke-width="1.5" rx="2"/>
+  <!-- Overlap front layer -->
+  <rect x="714" y="170" width="38" height="270" fill="#996D33" stroke="#483114" stroke-width="1.5" rx="2"/>
+  <rect x="25" y="140" width="22" height="310" fill="#3D280E" rx="2"/>
+  <rect x="753" y="140" width="22" height="310" fill="#3D280E" rx="2"/>
+</svg>

@@ -1,0 +1,28 @@
+@import '@fontsource-variable/plus-jakarta-sans';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --brand-primary: #2D4A3A;
+    --brand-primary-dark: #1F3529;
+    --brand-accent: #C8490E;
+    --brand-accent-hover: #A83B0A;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  *:focus-visible {
+    outline: 2px solid var(--brand-primary);
+    outline-offset: 2px;
+  }
+}
+
+@layer components {
+  .skip-link {
+    @apply absolute left-2 top-2 z-[100] -translate-y-full rounded-md bg-brand-primary px-4 py-3 text-sm font-semibold text-white transition-transform focus:translate-y-0;
+  }
+}

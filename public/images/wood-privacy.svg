@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <defs>
+    <linearGradient id="wpSky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#EBF4F0"/>
+      <stop offset="100%" stop-color="#D3E5DC"/>
+    </linearGradient>
+    <linearGradient id="wpPicket" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#A57D48"/>
+      <stop offset="50%" stop-color="#BD955E"/>
+      <stop offset="100%" stop-color="#8F6735"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#wpSky)"/>
+  <rect y="440" width="800" height="160" fill="#3D5A42"/>
+  <rect y="470" width="800" height="130" fill="#2E4432"/>
+  <!-- Rails -->
+  <rect x="40" y="220" width="720" height="18" fill="#694A23"/>
+  <rect x="40" y="380" width="720" height="18" fill="#694A23"/>
+  <!-- Pickets -->
+  <g fill="url(#wpPicket)" stroke="#694A23" stroke-width="1.5">
+    <rect x="50" y="160" width="34" height="290" rx="2"/>
+    <polygon points="50,160 67,142 84,160" fill="url(#wpPicket)"/>
+    <rect x="88" y="160" width="34" height="290" rx="2"/>
+    <polygon points="88,160 105,142 122,160" fill="url(#wpPicket)"/>
+    <rect x="126" y="160" width="34" height="290" rx="2"/>
+    <polygon points="126,160 143,142 160,160" fill="url(#wpPicket)"/>
+    <rect x="164" y="160" width="34" height="290" rx="2"/>
+    <polygon points="164,160 181,142 198,160" fill="url(#wpPicket)"/>
+    <rect x="202" y="160" width="34" height="290" rx="2"/>
+    <polygon points="202,160 219,142 236,160" fill="url(#wpPicket)"/>
+    <rect x="240" y="160" width="34" height="290" rx="2"/>
+    <polygon points="240,160 257,142 274,160" fill="url(#wpPicket)"/>
+    <rect x="278" y="160" width="34" height="290" rx="2"/>
+    <polygon points="278,160 295,142 312,160" fill="url(#wpPicket)"/>
+    <rect x="316" y="160" width="34" height="290" rx="2"/>
+    <polygon points="316,160 333,142 350,160" fill="url(#wpPicket)"/>
+    <rect x="354" y="160" width="34" height="290" rx="2"/>
+    <polygon points="354,160 371,142 388,160" fill="url(#wpPicket)"/>
+    <rect x="392" y="160" width="34" height="290" rx="2"/>
+    <polygon points="392,160 409,142 426,160" fill="url(#wpPicket)"/>
+    <rect x="430" y="160" width="34" height="290" rx="2"/>
+    <polygon points="430,160 447,142 464,160" fill="url(#wpPicket)"/>
+    <rect x="468" y="160" width="34" height="290" rx="2"/>
+    <polygon points="468,160 485,142 502,160" fill="url(#wpPicket)"/>
+    <rect x="506" y="160" width="34" height="290" rx="2"/>
+    <polygon points="506,160 523,142 540,160" fill="url(#wpPicket)"/>
+    <rect x="544" y="160" width="34" height="290" rx="2"/>
+    <polygon points="544,160 561,142 578,160" fill="url(#wpPicket)"/>
+    <rect x="582" y="160" width="34" height="290" rx="2"/>
+    <polygon points="582,160 599,142 616,160" fill="url(#wpPicket)"/>
+    <rect x="620" y="160" width="34" height="290" rx="2"/>
+    <polygon points="620,160 637,142 654,160" fill="url(#wpPicket)"/>
+    <rect x="658" y="160" width="34" height="290" rx="2"/>
+    <polygon points="658,160 675,142 692,160" fill="url(#wpPicket)"/>
+    <rect x="696" y="160" width="34" height="290" rx="2"/>
+    <polygon points="696,160 713,142 730,160" fill="url(#wpPicket)"/>
+  </g>
+  <!-- Posts -->
+  <rect x="40" y="130" width="22" height="340" fill="#583D1B" rx="2"/>
+  <rect x="390" y="130" width="22" height="340" fill="#583D1B" rx="2"/>
+  <rect x="740" y="130" width="22" height="340" fill="#583D1B" rx="2"/>
+  <polygon points="36,130 51,114 66,130" fill="#3D2910"/>
+  <polygon points="386,130 401,114 416,130" fill="#3D2910"/>
+  <polygon points="736,130 751,114 766,130" fill="#3D2910"/>
+</svg>

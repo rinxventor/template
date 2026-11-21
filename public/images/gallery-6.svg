@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#ECE9E2"/>
+  <rect y="430" width="800" height="170" fill="#3A5940"/>
+  <!-- Tan Vinyl Panels -->
+  <rect x="40" y="180" width="340" height="255" fill="#E0D6C3" stroke="#B8AC97" stroke-width="2" rx="3"/>
+  <rect x="420" y="180" width="340" height="255" fill="#E0D6C3" stroke="#B8AC97" stroke-width="2" rx="3"/>
+  <line x1="60" y1="190" x2="60" y2="425" stroke="#CEC3AE" stroke-width="2"/>
+  <line x1="440" y1="190" x2="440" y2="425" stroke="#CEC3AE" stroke-width="2"/>
+  <line x1="94" y1="190" x2="94" y2="425" stroke="#CEC3AE" stroke-width="2"/>
+  <line x1="474" y1="190" x2="474" y2="425" stroke="#CEC3AE" stroke-width="2"/>
+  <line x1="128" y1="190" x2="128" y2="425" stroke="#CEC3AE" stroke-width="2"/>
+  <line x1="508" y1="190" x2="508" y2="425" stroke="#CEC3AE" stroke-width="2"/>
+  <line x1="162" y1="190" x2="162" y2="425" stroke="#CEC3AE" stroke-width="2"/>
+  <line x1="542" y1="190" x2="542" y2="425" stroke="#CEC3AE" stroke-width="2"/>
+  <line x1="196" y1="190" x2="196" y2="425" stroke="#CEC3AE" stroke-width="2"/>
+  <line x1="576" y1="190" x2="576" y2="425" stroke="#CEC3AE" stroke-width="2"/>
+  <line x1="230" y1="190" x2="230" y2="425" stroke="#CEC3AE" stroke-width="2"/>
+  <line x1="610" y1="190" x2="610" y2="425" stroke="#CEC3AE" stroke-width="2"/>
+  <line x1="264" y1="190" x2="264" y2="425" stroke="#CEC3AE" stroke-width="2"/>
+  <line x1="644" y1="190" x2="644" y2="425" stroke="#CEC3AE" stroke-width="2"/>
+  <line x1="298" y1="190" x2="298" y2="425" stroke="#CEC3AE" stroke-width="2"/>
+  <line x1="678" y1="190" x2="678" y2="425" stroke="#CEC3AE" stroke-width="2"/>
+  <line x1="332" y1="190" x2="332" y2="425" stroke="#CEC3AE" stroke-width="2"/>
+  <line x1="712" y1="190" x2="712" y2="425" stroke="#CEC3AE" stroke-width="2"/>
+  <line x1="366" y1="190" x2="366" y2="425" stroke="#CEC3AE" stroke-width="2"/>
+  <line x1="746" y1="190" x2="746" y2="425" stroke="#CEC3AE" stroke-width="2"/>
+  <rect x="25" y="150" width="26" height="295" fill="#D4C8B3" stroke="#B8AC97" stroke-width="2"/>
+  <polygon points="21,150 38,132 55,150" fill="#C2B59F"/>
+  <rect x="387" y="150" width="26" height="295" fill="#D4C8B3" stroke="#B8AC97" stroke-width="2"/>
+  <polygon points="383,150 400,132 418,150" fill="#C2B59F"/>
+  <rect x="749" y="150" width="26" height="295" fill="#D4C8B3" stroke="#B8AC97" stroke-width="2"/>
+  <polygon points="745,150 762,132 779,150" fill="#C2B59F"/>
+</svg>

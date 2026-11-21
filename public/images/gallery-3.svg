@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#E2E6E3"/>
+  <!-- Pool water and deck -->
+  <rect y="460" width="800" height="140" fill="#1C7A8C"/>
+  <rect y="420" width="800" height="40" fill="#D3C7B5"/>
+  <!-- Black pool fence -->
+  <rect x="40" y="210" width="720" height="10" fill="#1A1C1D"/>
+  <rect x="40" y="415" width="720" height="10" fill="#1A1C1D"/>
+  <rect x="50" y="190" width="7" height="235" fill="#1A1C1D" rx="1"/>
+  <polygon points="48,190 53.5,176 59,190" fill="#1A1C1D"/>
+  <rect x="82" y="190" width="7" height="235" fill="#1A1C1D" rx="1"/>
+  <polygon points="80,190 85.5,176 91,190" fill="#1A1C1D"/>
+  <rect x="114" y="190" width="7" height="235" fill="#1A1C1D" rx="1"/>
+  <polygon points="112,190 117.5,176 123,190" fill="#1A1C1D"/>
+  <rect x="146" y="190" width="7" height="235" fill="#1A1C1D" rx="1"/>
+  <polygon points="144,190 149.5,176 155,190" fill="#1A1C1D"/>
+  <rect x="178" y="190" width="7" height="235" fill="#1A1C1D" rx="1"/>
+  <polygon points="176,190 181.5,176 187,190" fill="#1A1C1D"/>
+  <rect x="210" y="190" width="7" height="235" fill="#1A1C1D" rx="1"/>
+  <polygon points="208,190 213.5,176 219,190" fill="#1A1C1D"/>
+  <rect x="242" y="190" width="7" height="235" fill="#1A1C1D" rx="1"/>
+  <polygon points="240,190 245.5,176 251,190" fill="#1A1C1D"/>
+  <rect x="274" y="190" width="7" height="235" fill="#1A1C1D" rx="1"/>
+  <polygon points="272,190 277.5,176 283,190" fill="#1A1C1D"/>
+  <rect x="306" y="190" width="7" height="235" fill="#1A1C1D" rx="1"/>
+  <polygon points="304,190 309.5,176 315,190" fill="#1A1C1D"/>
+  <rect x="338" y="190" width="7" height="235" fill="#1A1C1D" rx="1"/>
+  <polygon points="336,190 341.5,176 347,190" fill="#1A1C1D"/>
+  <rect x="370" y="190" width="7" height="235" fill="#1A1C1D" rx="1"/>
+  <polygon points="368,190 373.5,176 379,190" fill="#1A1C1D"/>
+  <rect x="402" y="190" width="7" height="235" fill="#1A1C1D" rx="1"/>
+  <polygon points="400,190 405.5,176 411,190" fill="#1A1C1D"/>
+  <rect x="434" y="190" width="7" height="235" fill="#1A1C1D" rx="1"/>
+  <polygon points="432,190 437.5,176 443,190" fill="#1A1C1D"/>
+  <rect x="466" y="190" width="7" height="235" fill="#1A1C1D" rx="1"/>
+  <polygon points="464,190 469.5,176 475,190" fill="#1A1C1D"/>
+  <rect x="498" y="190" width="7" height="235" fill="#1A1C1D" rx="1"/>
+  <polygon points="496,190 501.5,176 507,190" fill="#1A1C1D"/>
+  <rect x="530" y="190" width="7" height="235" fill="#1A1C1D" rx="1"/>
+  <polygon points="528,190 533.5,176 539,190" fill="#1A1C1D"/>
+  <rect x="562" y="190" width="7" height="235" fill="#1A1C1D" rx="1"/>
+  <polygon points="560,190 565.5,176 571,190" fill="#1A1C1D"/>
+  <rect x="594" y="190" width="7" height="235" fill="#1A1C1D" rx="1"/>
+  <polygon points="592,190 597.5,176 603,190" fill="#1A1C1D"/>
+  <rect x="626" y="190" width="7" height="235" fill="#1A1C1D" rx="1"/>
+  <polygon points="624,190 629.5,176 635,190" fill="#1A1C1D"/>
+  <rect x="658" y="190" width="7" height="235" fill="#1A1C1D" rx="1"/>
+  <polygon points="656,190 661.5,176 667,190" fill="#1A1C1D"/>
+  <rect x="690" y="190" width="7" height="235" fill="#1A1C1D" rx="1"/>
+  <polygon points="688,190 693.5,176 699,190" fill="#1A1C1D"/>
+  <rect x="722" y="190" width="7" height="235" fill="#1A1C1D" rx="1"/>
+  <polygon points="720,190 725.5,176 731,190" fill="#1A1C1D"/>
+  <rect x="754" y="190" width="7" height="235" fill="#1A1C1D" rx="1"/>
+  <polygon points="752,190 757.5,176 763,190" fill="#1A1C1D"/>
+  <rect x="30" y="160" width="16" height="270" fill="#0C0D0E" rx="2"/>
+  <rect x="754" y="160" width="16" height="270" fill="#0C0D0E" rx="2"/>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+  <circle cx="60" cy="60" r="60" fill="#2D4A3A"/>
+  <!-- Worker silhouette with cap and collar -->
+  <circle cx="60" cy="46" r="22" fill="#E0C49F"/>
+  <!-- Cap -->
+  <path d="M38 42 C38 30, 82 30, 82 42 Z" fill="#1F3529"/>
+  <path d="M34 42 Q60 38 90 42 Q92 46 84 46 Q60 42 34 44 Z" fill="#1F3529"/>
+  <!-- Torso & Safety Vest -->
+  <path d="M26 110 C26 78, 94 78, 94 110 Z" fill="#C8490E"/>
+  <polygon points="52,80 60,94 68,80 60,78" fill="#FFFFFF" opacity="0.9"/>
+  <line x1="42" y1="84" x2="42" y2="110" stroke="#FFFFFF" stroke-width="4" opacity="0.8"/>
+  <line x1="78" y1="84" x2="78" y2="110" stroke="#FFFFFF" stroke-width="4" opacity="0.8"/>
+</svg>

@@ -1,0 +1,122 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+  <defs>
+    <linearGradient id="skyGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#141c19"/>
+      <stop offset="45%" stop-color="#23352c"/>
+      <stop offset="100%" stop-color="#364e3c"/>
+    </linearGradient>
+    <linearGradient id="woodGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#9C7A4A"/>
+      <stop offset="50%" stop-color="#7B5B2E"/>
+      <stop offset="100%" stop-color="#5B401D"/>
+    </linearGradient>
+    <linearGradient id="woodPost" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6B4E26"/>
+      <stop offset="50%" stop-color="#8A6735"/>
+      <stop offset="100%" stop-color="#553A1B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="1000" fill="url(#skyGrad)"/>
+  <!-- Lawn and landscape -->
+  <rect y="640" width="1600" height="360" fill="#253D2A"/>
+  <rect y="700" width="1600" height="300" fill="#1D3021"/>
+  <!-- Horizontal backing rails -->
+  <rect x="0" y="420" width="1600" height="24" fill="#4A3418" opacity="0.85"/>
+  <rect x="0" y="580" width="1600" height="24" fill="#4A3418" opacity="0.85"/>
+  <!-- Fence pickets repeating -->
+  <g fill="url(#woodGrad)" stroke="#4A3418" stroke-width="1.5">
+    <rect x="8" y="320" width="38" height="360" rx="2"/>
+    <polygon points="8,320 27,300 46,320" fill="url(#woodGrad)"/>
+    <rect x="50" y="320" width="38" height="360" rx="2"/>
+    <polygon points="50,320 69,300 88,320" fill="url(#woodGrad)"/>
+    <rect x="92" y="320" width="38" height="360" rx="2"/>
+    <polygon points="92,320 111,300 130,320" fill="url(#woodGrad)"/>
+    <rect x="134" y="320" width="38" height="360" rx="2"/>
+    <polygon points="134,320 153,300 172,320" fill="url(#woodGrad)"/>
+    <rect x="176" y="320" width="38" height="360" rx="2"/>
+    <polygon points="176,320 195,300 214,320" fill="url(#woodGrad)"/>
+    <rect x="218" y="320" width="38" height="360" rx="2"/>
+    <polygon points="218,320 237,300 256,320" fill="url(#woodGrad)"/>
+    <rect x="260" y="320" width="38" height="360" rx="2"/>
+    <polygon points="260,320 279,300 298,320" fill="url(#woodGrad)"/>
+    <rect x="302" y="320" width="38" height="360" rx="2"/>
+    <polygon points="302,320 321,300 340,320" fill="url(#woodGrad)"/>
+    <rect x="344" y="320" width="38" height="360" rx="2"/>
+    <polygon points="344,320 363,300 382,320" fill="url(#woodGrad)"/>
+    <rect x="386" y="320" width="38" height="360" rx="2"/>
+    <polygon points="386,320 405,300 424,320" fill="url(#woodGrad)"/>
+    <rect x="428" y="320" width="38" height="360" rx="2"/>
+    <polygon points="428,320 447,300 466,320" fill="url(#woodGrad)"/>
+    <rect x="470" y="320" width="38" height="360" rx="2"/>
+    <polygon points="470,320 489,300 508,320" fill="url(#woodGrad)"/>
+    <rect x="512" y="320" width="38" height="360" rx="2"/>
+    <polygon points="512,320 531,300 550,320" fill="url(#woodGrad)"/>
+    <rect x="554" y="320" width="38" height="360" rx="2"/>
+    <polygon points="554,320 573,300 592,320" fill="url(#woodGrad)"/>
+    <rect x="596" y="320" width="38" height="360" rx="2"/>
+    <polygon points="596,320 615,300 634,320" fill="url(#woodGrad)"/>
+    <rect x="638" y="320" width="38" height="360" rx="2"/>
+    <polygon points="638,320 657,300 676,320" fill="url(#woodGrad)"/>
+    <rect x="680" y="320" width="38" height="360" rx="2"/>
+    <polygon points="680,320 699,300 718,320" fill="url(#woodGrad)"/>
+    <rect x="722" y="320" width="38" height="360" rx="2"/>
+    <polygon points="722,320 741,300 760,320" fill="url(#woodGrad)"/>
+    <rect x="764" y="320" width="38" height="360" rx="2"/>
+    <polygon points="764,320 783,300 802,320" fill="url(#woodGrad)"/>
+    <rect x="806" y="320" width="38" height="360" rx="2"/>
+    <polygon points="806,320 825,300 844,320" fill="url(#woodGrad)"/>
+    <rect x="848" y="320" width="38" height="360" rx="2"/>
+    <polygon points="848,320 867,300 886,320" fill="url(#woodGrad)"/>
+    <rect x="890" y="320" width="38" height="360" rx="2"/>
+    <polygon points="890,320 909,300 928,320" fill="url(#woodGrad)"/>
+    <rect x="932" y="320" width="38" height="360" rx="2"/>
+    <polygon points="932,320 951,300 970,320" fill="url(#woodGrad)"/>
+    <rect x="974" y="320" width="38" height="360" rx="2"/>
+    <polygon points="974,320 993,300 1012,320" fill="url(#woodGrad)"/>
+    <rect x="1016" y="320" width="38" height="360" rx="2"/>
+    <polygon points="1016,320 1035,300 1054,320" fill="url(#woodGrad)"/>
+    <rect x="1058" y="320" width="38" height="360" rx="2"/>
+    <polygon points="1058,320 1077,300 1096,320" fill="url(#woodGrad)"/>
+    <rect x="1100" y="320" width="38" height="360" rx="2"/>
+    <polygon points="1100,320 1119,300 1138,320" fill="url(#woodGrad)"/>
+    <rect x="1142" y="320" width="38" height="360" rx="2"/>
+    <polygon points="1142,320 1161,300 1180,320" fill="url(#woodGrad)"/>
+    <rect x="1184" y="320" width="38" height="360" rx="2"/>
+    <polygon points="1184,320 1203,300 1222,320" fill="url(#woodGrad)"/>
+    <rect x="1226" y="320" width="38" height="360" rx="2"/>
+    <polygon points="1226,320 1245,300 1264,320" fill="url(#woodGrad)"/>
+    <rect x="1268" y="320" width="38" height="360" rx="2"/>
+    <polygon points="1268,320 1287,300 1306,320" fill="url(#woodGrad)"/>
+    <rect x="1310" y="320" width="38" height="360" rx="2"/>
+    <polygon points="1310,320 1329,300 1348,320" fill="url(#woodGrad)"/>
+    <rect x="1352" y="320" width="38" height="360" rx="2"/>
+    <polygon points="1352,320 1371,300 1390,320" fill="url(#woodGrad)"/>
+    <rect x="1394" y="320" width="38" height="360" rx="2"/>
+    <polygon points="1394,320 1413,300 1432,320" fill="url(#woodGrad)"/>
+    <rect x="1436" y="320" width="38" height="360" rx="2"/>
+    <polygon points="1436,320 1455,300 1474,320" fill="url(#woodGrad)"/>
+    <rect x="1478" y="320" width="38" height="360" rx="2"/>
+    <polygon points="1478,320 1497,300 1516,320" fill="url(#woodGrad)"/>
+    <rect x="1520" y="320" width="38" height="360" rx="2"/>
+    <polygon points="1520,320 1539,300 1558,320" fill="url(#woodGrad)"/>
+    <rect x="1562" y="320" width="38" height="360" rx="2"/>
+    <polygon points="1562,320 1581,300 1600,320" fill="url(#woodGrad)"/>
+  </g>
+  <!-- Sturdy posts -->
+  <g fill="url(#woodPost)">
+    <rect x="20" y="280" width="22" height="420" rx="3"/>
+    <polygon points="17,280 31,265 45,280" fill="#4A3418"/>
+    <rect x="270" y="280" width="22" height="420" rx="3"/>
+    <polygon points="267,280 281,265 295,280" fill="#4A3418"/>
+    <rect x="520" y="280" width="22" height="420" rx="3"/>
+    <polygon points="517,280 531,265 545,280" fill="#4A3418"/>
+    <rect x="770" y="280" width="22" height="420" rx="3"/>
+    <polygon points="767,280 781,265 795,280" fill="#4A3418"/>
+    <rect x="1020" y="280" width="22" height="420" rx="3"/>
+    <polygon points="1017,280 1031,265 1045,280" fill="#4A3418"/>
+    <rect x="1270" y="280" width="22" height="420" rx="3"/>
+    <polygon points="1267,280 1281,265 1295,280" fill="#4A3418"/>
+    <rect x="1520" y="280" width="22" height="420" rx="3"/>
+    <polygon points="1517,280 1531,265 1545,280" fill="#4A3418"/>
+  </g>
+</svg>
